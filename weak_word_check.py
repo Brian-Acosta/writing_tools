@@ -35,6 +35,11 @@ def highlight_weak_words(input_pdf_path, output_pdf_path):
         ' typically ', 
         ' potentially ', 
         ' especially ', 
+        ' fully ', 
+        ' completely ',
+        ' naturally ', 
+        ' complex ', 
+        ' fundamental '
         ' significantly ',
         ' clean ',
         ' elegant '

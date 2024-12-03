@@ -1,4 +1,4 @@
-import pymupdf
+import pymupdf       # https://pypi.org/project/PyMuPDF/
 import argparse
 
 def highlight_weak_words(input_pdf_path, output_pdf_path):

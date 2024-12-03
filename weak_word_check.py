@@ -50,6 +50,7 @@ def highlight_weak_words(input_pdf_path, output_pdf_path):
         ' easily ',
         ' arguably ',
         ' simply ', 
+        ' simple ',
         ' can ',
         ' practically ',
         ' believe ', 
@@ -60,7 +61,7 @@ def highlight_weak_words(input_pdf_path, output_pdf_path):
         ' suggest ', 
         ' implies ', 
         ' seems ', 
-        ' tends  to', 
+        ' tends to', 
         ' may ',
         ' approximately '
     ]
